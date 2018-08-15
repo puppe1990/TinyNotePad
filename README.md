@@ -1,6 +1,6 @@
 # TinyNotePad
 
-TinyNotePad build with HTML,CSS and Javascript.
+TinyNotePad build with HTML,CSS and Javascript saving in txt.
 
 Copy and paste on your browser:
 
